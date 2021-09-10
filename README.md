@@ -1,2 +1,2 @@
-# roadplan
-A road-plan and to-do list for Ice Cream Studios.
+# Ice Cream Studios: Roadplan
+We have many cool things planned for Ice Cream and Ice Cream Studios. This repository contains multiple Kanban boards in the **Projects** section, with to-do lists for our projects.
